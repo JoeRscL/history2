@@ -34,5 +34,59 @@
     "img": "../src/assets/Foods/Lemang.png",
     "name": "Lemang",
     "desc": "Beras ketan dicampur dengan santan, dimasukkan ke dalam tabung bambu, dan dimasak perlahan di atas api hingga beras menyerap aroma asap dan mengembangkan lapisan yang lengket."
-  }
+  },
+  {
+    "id": 7,
+    "img": "../src/assets/Foods/BPK.jpg",
+    "name": "Babi Panggang Karo",
+    "desc": "Hidangan daging babi khas suku Karo yang dipanggang dengan bumbu spesial."
+  },
+  {
+    "id": 8,
+    "img": "../src/assets/Foods/saksang.jpeg",
+    "name": "Saksang",
+    "desc": "Masakan daging babi atau anjing yang dimasak dengan darah dan rempah-rempah Batak."
+  },
+   {
+    "id": 9,
+    "img": "../src/assets/Foods/Naniura.jpg",
+    "name": "Dekke Naniura",
+    "desc": "Ikan mas yang diasinkan dan dimasak tanpa api, menggunakan air jeruk nipis dan bumbu."
+  },
+  {
+    "id": 10,
+    "img": "../src/assets/Foods/kue.png",
+    "name": "Kue Ombus-Ombus",
+    "desc": "Kue tradisional Batak yang terbuat dari tepung beras dan gula merah, dibungkus dengan daun pisang dan dikukus."
+  },
+    {
+    "id": 11,
+    "img": "../src/assets/Foods/ubi.jpeg",
+    "name": "Gulai Daun Ubi Tumbuk",
+    "desc": "Gulai daun singkong yang ditumbuk dengan bumbu dan santan."
+  },
+  {
+    "id": 12,
+    "img": "../src/assets/Foods/Tinutuan.jpeg",
+    "name": "Tinutuan",
+    "desc": "Hidangan ini terbuat dari campuran beras yang dimasak bersama berbagai macam sayuran seperti labu kuning, jagung manis, daun bayam, kangkung, daun kemangi, dan daun gedi."
+  },
+  {
+    "id": 13,
+    "img": "../src/assets/Foods/ayam.jpg",
+    "name": "Ayam Pinadar",
+    "desc": "Ayam bakar dengan bumbu kelapa parut dan andaliman khas Batak. Ayam bakar dengan bumbu kelapa parut dan andaliman khas Batak."
+  },
+   {
+    "id": 14,
+    "img": "../src/assets/Foods/gulai.jpg",
+    "name": "Gulai Itiak",
+    "desc": "Hidangan gulai bebek dengan kuah santan yang kaya rempah, sering disajikan dengan nasi putih."
+  },
+  {
+    "id": 15,
+    "img": "../src/assets/Foods/tangkap.jpg",
+    "name": "Ayam Tangkap",
+    "desc": "Hidangan ayam goreng yang disajikan dengan daun kari dan rempah-rempah, memberikan rasa yang unik dan aromatik."
+  },
 ]
